@@ -23,6 +23,8 @@
 *.stl filter=lfs diff=lfs merge=lfs -text
 *.ztl filter=lfs diff=lfs merge=lfs -text
 
+*.png filter=lfs diff=lfs merge=lfs -text
+
 # sound
 
 *.wav filter=lfs diff=lfs merge=lfs -text
